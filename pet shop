@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Pet Shop</title>
+    <style>
+        body {
+            background-color: #fef6e4;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        h1 {
+            color: #ff6f61;
+            font-size: 48px;
+        }
+        img {
+            margin-top: 20px;
+            width: 300px;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>WELCOME TO MY PET SHOP</h1>
+
+    <!-- Add your image below -->
+    <img src="https://placekitten.com/400/300" alt="Cute Pet">
+
+</body>
+</html>
